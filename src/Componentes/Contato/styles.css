@@ -1,0 +1,139 @@
+.rodape-escuro, .rodape-claro {
+    width: 100%;
+    height: 70vh;
+}
+
+.rodape-claro {
+    background-color: #f5f5f581;
+}
+.copyr {
+    color: #000e28;
+    margin-bottom: 30px;
+    margin-left: 15px;
+    text-align: center;
+}
+.box-rodape {
+    width: 100%;
+    height: 15vh;
+    background-color: #51cccf;
+    display: flex;
+}
+.contato {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.contato img {
+    width: 30px;
+    margin-right: 10px;
+}
+.contato p {
+    color: #fff;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+.contato a {
+    color: #fff;
+    font-weight: 600;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border: 2px solid #fff;
+    border-radius: 30px;
+}
+.rodape-escuro .navegacao a {
+    color: #fff;
+    transition: 2s;
+}
+.navegacao-rodape {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-right: 10px;
+}
+.navegacao-rodape a {
+    text-decoration: none;
+    color: #000e28;
+    margin-left: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.box-contato {
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
+    height: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.copyr span {
+    color: #000e28;
+    font-weight: 800;  
+}
+.box-contato p {
+    color: #000e28;
+    background-color: #f5f5f581;;
+}
+.box-contato .logo {
+    width: 90px;
+    margin: 0 80px 0 125px;
+}
+
+.navegacao-contatos img {
+    width: 25px;
+    margin: 0 15px;
+}
+
+@media (max-width: 426px) {
+    .navegacao-rodape {
+        margin-right: 0;
+    }
+    .contato {
+        flex-wrap: wrap;
+        justify-content: center;
+        text-align: center;
+    }
+    .navegacao-rodape a {
+        margin: 10px 20px;
+    }
+    .box-rodape {
+        height: 150px;
+    }
+    .contato p {
+        margin: 10px 0 5px 0;
+    }
+}
+
+@media (min-width: 427px) and (max-width: 768px) {
+    .navegacao-rodape {
+        margin-right: 30px;
+    }
+    .contato {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .box-rodape {
+        height: 150px;
+    }
+    .contato p {
+        margin: 10px 0 5px 0;
+    }
+}
+
+@media (min-width: 769px) {
+    .rodape-escuro, .rodape-claro {
+        width: 100%;
+        height: 60vh;
+    }
+}

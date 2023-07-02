@@ -1,0 +1,130 @@
+.sobre, .sobre-escuro {
+    transition: 3s;
+    text-align: center;
+}
+.sobre p, h2 {
+    color:#000e28;
+}
+.sobre-escuro {
+    background-color: #000e28;
+}
+.sobre-escuro h2, p {
+    color:#fff;
+}
+.box-sobre {
+    max-width: 800px;
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+    display: flex;
+    justify-content: end;
+}
+.box-fundo-img {
+    width: 200px;
+    height: 400px;
+    background-color: none;
+    border: 4px solid  #58efce;
+    position: absolute;
+    top: -30px;
+    left: 90px;
+}
+.box-img {
+    width: 200px;
+    height: 400px;
+    background-color: #00000093;
+    position: absolute;
+    top: -50px;
+    left: 60px;
+    border-radius: 5px;
+}
+
+.box-img img {
+    width: 175px;
+    height: 350px;
+    border-radius: 5px;
+}
+
+.box-texto {
+ padding: 40px; 
+}
+.box-texto h2 {
+    margin-bottom: 20px;
+}
+.box-sobre p {
+    right: 35px;
+    top: 50px;
+    text-align: justify;
+    max-width: 450px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.tecnologias {
+    width: 100%;
+    max-width: 1024px;
+    margin: 5px auto 0 auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.hidden {
+    text-align: center;
+    width: 80px;
+    height: 60px;
+    margin: 25px 20px;
+}
+.hidden p {
+    opacity: 0;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+.hidden img:hover p {
+    transform: translateY(0px);
+    opacity: 1;
+}
+.hidden:hover p {
+    transform: translateY(0px);
+    opacity: 1;
+    transition: 0.5s;
+}
+.hidden img {
+    width: 60px;
+    height: 60px;
+    margin: 0 auto;
+    filter: grayscale(100%);
+}
+.hidden img:hover  {
+    filter: grayscale(0%);
+}
+
+
+@media (max-width: 426px) {
+    .box-img, .box-fundo-img {
+        display: none;
+    }
+    
+    .tecnologias img {
+        margin: 10px 10px;
+    }
+    .box-sobre{
+    justify-content: center;
+    }
+    .box-texto {
+        padding: 20px;
+    }
+}
+
+@media (min-width: 427px) and (max-width: 768px) {
+    .box-img, .box-fundo-img {
+        display: none;
+    }
+    .sobre, .sobre-escuro {
+    }
+    .box-sobre{
+    justify-content: center;
+    }
+    .box-texto {
+        padding: 20px;
+    }
+    
+}
