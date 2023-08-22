@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.eec71f69.css",
+    "main.js": "/static/js/main.77e1c081.js",
+    "static/media/barbearia.png": "/static/media/barbearia.bb0905c855e4492002b0.png",
+    "static/media/cafeteria.png": "/static/media/cafeteria.358eff6760c2610d89f9.png",
+    "static/media/ApiNasa.png": "/static/media/ApiNasa.dca98f2c1120badfa7d9.png",
+    "static/media/gelateria.png": "/static/media/gelateria.b08a34499824d6794247.png",
+    "static/media/agencia.png": "/static/media/agencia.9e6611889782a94b2bc6.png",
+    "static/media/calculadora.png": "/static/media/calculadora.82134af76a4f5eecf50d.png",
+    "static/media/img.png": "/static/media/img.5a8e06ea7856b4e45736.png",
+    "static/media/alfatech.png": "/static/media/alfatech.d854191c703ad0324f28.png",
+    "static/media/banner.jpg": "/static/media/banner.8f8b2b9d70feecb61e7d.jpg",
+    "static/media/whatsapp.png": "/static/media/whatsapp.b47e4bfc9b6714928d7f.png",
+    "static/media/ayrton.png": "/static/media/ayrton.c216513d568984feec03.png",
+    "static/media/devmedia.png": "/static/media/devmedia.a57537e3393291dfa499.png",
+    "static/media/conversor.png": "/static/media/conversor.33d9eee144da120bb5d4.png",
+    "static/media/tabuada.png": "/static/media/tabuada.44e2331c5d2996bedba1.png",
+    "static/media/magic.png": "/static/media/magic.0ea8ea552f995cbb1e50.png",
+    "static/media/sol.png": "/static/media/sol.b7ab0d4ab22a6a5f3c43.png",
+    "static/media/nextjs.png": "/static/media/nextjs.14f3421dcf8351525147.png",
+    "static/media/react.png": "/static/media/react.65f83d4f092748b6d7b2.png",
+    "static/media/sql.png": "/static/media/sql.7b5e8f348dbb2a518647.png",
+    "static/media/logo.png": "/static/media/logo.e4c8a1c6c666c55ac72e.png",
+    "static/media/olho.png": "/static/media/olho.559f38381db2bd2d9897.png",
+    "static/media/mysql.png": "/static/media/mysql.4676ad983d6bd3e9fac9.png",
+    "static/media/node.png": "/static/media/node.8f912e6eff277ae16489.png",
+    "index.html": "/index.html",
+    "main.eec71f69.css.map": "/static/css/main.eec71f69.css.map",
+    "main.77e1c081.js.map": "/static/js/main.77e1c081.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eec71f69.css",
+    "static/js/main.77e1c081.js"
+  ]
+}
