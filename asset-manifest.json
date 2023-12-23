@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.e70de0d3.css",
-    "main.js": "/static/js/main.37b11400.js",
+    "main.css": "/static/css/main.a5579634.css",
+    "main.js": "/static/js/main.7663b857.js",
     "static/media/previsao-tempo.png": "/static/media/previsao-tempo.91492c68e55bc2418dcf.png",
     "static/media/cafeteria.png": "/static/media/cafeteria.358eff6760c2610d89f9.png",
     "static/media/barbearia.png": "/static/media/barbearia.094005f73d5ef2f0c69f.png",
@@ -11,28 +11,28 @@
     "static/media/gelateria.png": "/static/media/gelateria.b08a34499824d6794247.png",
     "static/media/agencia.png": "/static/media/agencia.9e6611889782a94b2bc6.png",
     "static/media/calculadora.png": "/static/media/calculadora.82134af76a4f5eecf50d.png",
-    "static/media/img.png": "/static/media/img.5a8e06ea7856b4e45736.png",
     "static/media/alfatech.png": "/static/media/alfatech.d854191c703ad0324f28.png",
-    "static/media/whatsapp.png": "/static/media/whatsapp.b47e4bfc9b6714928d7f.png",
     "static/media/ayrton.png": "/static/media/ayrton.c216513d568984feec03.png",
-    "static/media/devmedia.png": "/static/media/devmedia.a57537e3393291dfa499.png",
     "static/media/conversor-de-moedas.png": "/static/media/conversor-de-moedas.c5f302c7c64ca4cdb357.png",
     "static/media/conversor.png": "/static/media/conversor.33d9eee144da120bb5d4.png",
+    "static/media/devmedia.png": "/static/media/devmedia.701cf5cc8fa514c5807f.png",
     "static/media/tabuada.png": "/static/media/tabuada.44e2331c5d2996bedba1.png",
     "static/media/magic.png": "/static/media/magic.0ea8ea552f995cbb1e50.png",
     "static/media/figma.png": "/static/media/figma.2b68053370b25614f683.png",
+    "static/media/img.jpg": "/static/media/img.044b3110bf9cef24e1de.jpg",
     "static/media/nextjs.png": "/static/media/nextjs.14f3421dcf8351525147.png",
+    "static/media/whatsapp.png": "/static/media/whatsapp.16ef3a412ffcef0bef51.png",
     "static/media/react.png": "/static/media/react.65f83d4f092748b6d7b2.png",
     "static/media/sass.png": "/static/media/sass.14feb2aba7fc655b28fa.png",
     "static/media/sql.png": "/static/media/sql.7b5e8f348dbb2a518647.png",
     "static/media/mysql.png": "/static/media/mysql.4676ad983d6bd3e9fac9.png",
     "static/media/node.png": "/static/media/node.8f912e6eff277ae16489.png",
     "index.html": "/index.html",
-    "main.e70de0d3.css.map": "/static/css/main.e70de0d3.css.map",
-    "main.37b11400.js.map": "/static/js/main.37b11400.js.map"
+    "main.a5579634.css.map": "/static/css/main.a5579634.css.map",
+    "main.7663b857.js.map": "/static/js/main.7663b857.js.map"
   },
   "entrypoints": [
-    "static/css/main.e70de0d3.css",
-    "static/js/main.37b11400.js"
+    "static/css/main.a5579634.css",
+    "static/js/main.7663b857.js"
   ]
 }
